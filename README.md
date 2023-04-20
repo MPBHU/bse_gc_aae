@@ -108,3 +108,46 @@ ference”**,https://mixtape.scunning.com/04-potential_outcomes#randomization-in
 - **Scott Cunningham (2018), Causal Inference: The Mixtape, Chapter “Panel Data”,** https://mixtape.scunning.com/08-panel_data.
 
 - Jens Hainmueller and Dominik Hangartner (2019), Does Direct Democracy Hurt Immigrant Minorities? Evidence from Naturalization Decisions in Switzerland, *American Journal of Political Science, 63* (3), 530-547.
+
+
+### 4 Difference-in-difference (May 12 and 19, RS)
+
+- Canonical DID model
+- Event study framework, two-way fixed-effects
+- Potential issues: Staggered treatment, parallel trends, inference
+
+#### References
+
+- Joshua D. Angrist and J ̈orn-Steffen Pischke (2008), Mostly Harmless Econometrics: An Empiricist’s Companion, Chapter 5.2, Differences-in-differences: Pre and Post, Treatment and Control.
+
+- Martha J. Bailey and Andrew Goodman-Bacon (2015), The War on Poverty’s Experiment in Public Medicine: Community Health Centers and the Mortality of Older Americans, *American Economic Review, 105* (3): 1067ˆa€“1104.
+
+- Marianne Bertrand, Esther Duflo, Sundhil Mullainathan (2004), How much should we trust differences-in-differences estimates? *Quarterly Journal of Economics, 119* (1):249-275.
+
+- **Scott Cunningham (2018), Causal Inference: The Mixtape, Chapter “Difference-in-Differences”**,https://mixtape.scunning.com/09-difference_in_differences.
+
+- Jonathan Roth, Pedro H. C. Sant’Anna, Alyssa Bilinski, John Poe (2022), “What’s Trending inDifference-in-Differences? A Synthesis of the Recent Econometrics Literature,”https://www.jonathandroth.com/assets/files/DiD_Review_Paper.pdf
+
+
+### 5 IV (May 26 and June 2, FW)
+
+- Introduction: The Wald estimator, IV with homogeneous treatment effects, assessment of instruments
+- LATE: can we learn anything when treatment effects are heterogeneous?
+- Stata implementations
+- Essential references in bold
+
+#### References
+
+- **Cunningham, Scott (2018), Causal Inference: The Mixtape, Chapter “Instrumental Variables”**,https://mixtape.scunning.com/07-instrumental_variables.
+
+- **Imbens, Guido W. 2010. “Better LATE Than Nothing: Some Comments on Deaton (2009) and Heckman and Urzua (2009).” *Journal of Economic Literature, 48* (2): 399- 423.**
+
+- **Marbach, M., & Hangartner, D. (2020). Profiling Compliers and Noncompliers for Instrumental Variable Analysis. *Political Analysis, 28*(3).**
+
+- **Angrist, Joshua, et al. “Multiple Experiments for the Causal Link between the Quantity and Quality of Children.” *Journal of Labor Economics, 28*(4), 2010.**
+
+- Angrist, Joshua D., and William N. Evans. “Children and Their Parents’ Labor Supply: Evidence from Exogenous Variation in Family Size.” *The American Economic Review, 88* (3), 1998
+
+- Acemoglu, Daron, Simon Johnson, and James A. Robinson. 2001. “The Colonial Origins of Comparative Development: An Empirical Investigation.” *American Economic Review, 91* (5): 1369-1401.
+
+- Lundborg, Petter, Erik Plug, and Astrid W ̈urtz Rasmussen. 2017. “Can Women Have Children and a Career? IV Evidence from IVF Treatments.” *American Economic Review, 107* (6): 1611-37.
