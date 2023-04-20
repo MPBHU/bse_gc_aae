@@ -87,7 +87,7 @@ applied in non-experimental settings) that works without distributional assumpti
 
 - Oster, Emily, (2019), Unobservable Selection and Coefficient Stability: Theory and Evidence, **Journal of Business & Economic Statistics, 37**(2).
 
-- Altonji, J. G., Elder, T. E., & Taber, C. R. (2005). Selection on Observed and Unobserved Variables: Assessing the Effectiveness of Catholic Schools. Journal of Political Economy, 113(1), 151--184.
+- Altonji, J. G., Elder, T. E., & Taber, C. R. (2005). Selection on Observed and Unobserved Variables: Assessing the Effectiveness of Catholic Schools. Journal of Political Economy, 113(1), 151-184.
 
 - Alwyn Young, Channeling Fisher: Randomization Tests and the Statistical Insignificance of Seemingly Significant Experimental Results, **The Quarterly Journal of Economics, 134**(2),May 2019.
 
@@ -120,7 +120,7 @@ ference”**,https://mixtape.scunning.com/04-potential_outcomes#randomization-in
 
 - Joshua D. Angrist and J ̈orn-Steffen Pischke (2008), Mostly Harmless Econometrics: An Empiricist’s Companion, Chapter 5.2, Differences-in-differences: Pre and Post, Treatment and Control.
 
-- Martha J. Bailey and Andrew Goodman-Bacon (2015), The War on Poverty’s Experiment in Public Medicine: Community Health Centers and the Mortality of Older Americans, *American Economic Review, 105* (3): 1067ˆa€“1104.
+- Martha J. Bailey and Andrew Goodman-Bacon (2015), The War on Poverty’s Experiment in Public Medicine: Community Health Centers and the Mortality of Older Americans, *American Economic Review, 105* (3): 1067-1104.
 
 - Marianne Bertrand, Esther Duflo, Sundhil Mullainathan (2004), How much should we trust differences-in-differences estimates? *Quarterly Journal of Economics, 119* (1):249-275.
 
