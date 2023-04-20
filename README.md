@@ -67,3 +67,45 @@
 - **van Soest, Arthur (1995), “Structural models of family labor supply: A discrete choice approach”, *Journal of Human Resources* 30 (1), 63-88.**
 
 - Wolpin, Kenneth I. (2013), The limits of inference without theory, MIT Press.
+
+
+### 2 Omitted Variable Bias, Assessing Models, Fisher Inference, Stata (FW 28.4.)
+
+In this session, we will cover different topics of general interest, before turning to more specific methods.
+These are (a) sometimes we are just left with the OLS. Can we learn anything from coefficient movements
+and the stability of our estimates when including or excluding more controls?, (b) in this course we will not
+talk about inference much but here is one powerful method for inference in experiments (that can also be
+applied in non-experimental settings) that works without distributional assumptions, its Fisher inference...,
+(c) for both topics we will use Stata, so this is being introduced alongside.
+
+- Assessing endogeneity problems in OLS through coefficient movements
+- Fisher inference
+- Introduction to Stata software
+
+
+#### References
+
+
+- Oster, Emily, (2019), Unobservable Selection and Coefficient Stability: Theory and Evidence, **Journal of Business & Economic Statistics, 37**(2).
+
+- Altonji, J. G., Elder, T. E., & Taber, C. R. (2005). Selection on Observed and Unobserved Variables: Assessing the Effectiveness of Catholic Schools. Journal of Political Economy, 113(1), 151--184.
+
+- Alwyn Young, Channeling Fisher: Randomization Tests and the Statistical Insignificance of Seemingly Significant Experimental Results, **The Quarterly Journal of Economics, 134**(2),May 2019.
+
+- **Scott Cunningham (2018), Causal Inference: The Mixtape, Chapter “Randomization In-
+ference”**,https://mixtape.scunning.com/04-potential_outcomes#randomization-inference.
+
+
+### 3 Panel Data/Fixed Effects (May 5, RS)
+
+- Fixed effects and first differences: identification and interpretation
+- Application to panel settings and beyond
+
+#### References
+
+
+- Raj Chetty, Adam Looney, and Kory Kroft (2009), Salience and Taxation: Theory and Evidence, *American Economic Review, 99* (4), 1145-1177.
+
+- **Scott Cunningham (2018), Causal Inference: The Mixtape, Chapter “Panel Data”,** https://mixtape.scunning.com/08-panel_data.
+
+- Jens Hainmueller and Dominik Hangartner (2019), Does Direct Democracy Hurt Immigrant Minorities? Evidence from Naturalization Decisions in Switzerland, *American Journal of Political Science, 63* (3), 530-547.
