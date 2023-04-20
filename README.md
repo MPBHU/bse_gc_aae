@@ -6,7 +6,7 @@
 
 - The course takes place on Fridays (in general), 9:00 - 12:00 at DIW Berlin (Room 2.3.020, Popper
     Room).
-- All material can be found here:https://github.com/hannesullrich/bse_gc_aae
+- All material can be found here: https://github.com/hannesullrich/bse_gc_aae
 - PhD: Credit points: 9 ECTS
 - Master: Credit points: 6 ECTS
 - First session: April 21, 2023
