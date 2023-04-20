@@ -151,3 +151,87 @@ ference”**,https://mixtape.scunning.com/04-potential_outcomes#randomization-in
 - Acemoglu, Daron, Simon Johnson, and James A. Robinson. 2001. “The Colonial Origins of Comparative Development: An Empirical Investigation.” *American Economic Review, 91* (5): 1369-1401.
 
 - Lundborg, Petter, Erik Plug, and Astrid Würtz Rasmussen. 2017. “Can Women Have Children and a Career? IV Evidence from IVF Treatments.” *American Economic Review, 107* (6): 1611-37.
+
+
+### 6 Regression discontinuity (June 9 and 16, JJ)
+
+- Introduction: Sharp and fuzzy RD
+- Threats to identification and RD diagnostics (bunching, covariate distribution)
+- Specification issues: choice of bandwidth, polynomial, control variables
+- Regression kink design
+- Geographic regression discontinuity
+
+#### References
+
+
+- **Cunningham, Scott (2018), Causal Inference: The Mixtape, Chapter “Regression Discontinuity”**,https://mixtape.scunning.com/06-regression_discontinuity.
+
+- Dahl, G. B., Løken, K. V., & Mogstad, M. (2014). Peer effects in program participation. *American Economic Review, 104*(7), 2049-2074.
+
+- Dell, M. (2010). The Persistent Effects of Peru’s Mining Mita. *Econometrica 78*(6), 1863-1903.
+
+- Gelman, A. and G. Imbens (2019): Why High-Order Polynomials Should Not Be Used in Regression Discontinuity Designs. *Journal of Business & Economic Statistics, 37*, 447-456.
+
+- Jessen, J., Kuehnle, D., & Wagner, M. (2021). “Is voting really habit-forming and transformative? Long-run effects of earlier eligibility on turnout and political involvement from the UK.” *Working paper*
+
+- Lee, David S., and Thomas Lemieux. (2010). “Regression Discontinuity Designs in Economics.” *Journal of Economic Literature, 48* (2): 281-355.
+
+- McCrary, J. (2008): “Manipulation of the running variable in the regression discontinuity design: A density test,” *Journal of Econometrics, 142*, 698-714.
+
+
+### 7 Static discrete choice with market-level data (June 23, HU)
+
+- Estimating demand and supply parameters in markets with differentiated products using aggregate (product-level) data.
+- Coding exercise: preliminaries.
+
+#### References
+
+
+- **Berry, Steven T. (1994), “Estimating Discrete Choice Models of Product Differentiation,” *Rand Journal of Economics, 25*(2), 242-262.**
+
+- **Berry, Steven T., Jim Levinsohn, and Ariel Pakes (1995), “Automobile Prices in Market Equilibrium,” *Econometrica 63*(4), 841-890.**
+
+- Berry, Steven T. and Philip A. Haile (2021), “Foundations of Demand Estimation,” In *Handbook of Industrial Organization 4*(1), 1-62.
+
+- Conlon, Christopher and Jeff Gortmaker (2020), “Best Practices for Differentiated Products Demand Estimation with pyblp,” *The RAND Journal of Economics 51*(4), 1108-1161.
+
+
+### 8 Static discrete choice with market-level data (June 30, HU)
+
+- This lecture will take place in Room 5.2.
+- Recap Berry et al. (1995).
+- Coding exercise: Berry et al. (1995) nested fixed-point (NFP) algorithm.
+- Discuss extensions and alternative estimation methods.
+
+#### References
+
+
+- **Berry, Steven T., Jim Levinsohn, and Ariel Pakes (1995), “Automobile Prices in Market Equilibrium,” *Econometrica 63* (4), 841-890.**
+
+- **Conlon, Christopher and Jeff Gortmaker (2020), “Best Practices for Differentiated Products Demand Estimation with pyblp,” *The RAND Journal of Economics 51*(4), 1108-1161.**
+
+
+### 9 Dynamic discrete choice (July 7, PH, MB)
+
+- Dynamic incentives to labour supply: investing in human capital
+- More on Discretisation
+- Interpolation
+
+
+#### Reference
+
+- Keane, M., P. Todd, and K. Wolpin (2011). “The Structural Estimation of Behavioral Models: Discrete Choice Dynamic Programming Methods and Applications”. In *Handbook of Labor Economics*, ed. by O. Ashenfelter and D. Card, Elsevier, vol. 4, 1 ed.
+
+- **Keane, Michael and Kenneth Wolpin (1997). “The Career Decisions of Young Men”. *Journal of Political Economy 105* (3), 473-522.**
+
+
+### 10 Dynamic discrete choice in Labour II (July 14, PH, MB)
+
+- Dynamic incentives to labour supply: the role of education, full time and part time experience
+- Identification and validation of structural parameters
+- Policy Simulation
+
+#### Reference
+
+- Blundell, Richard, Monica Costa-Dias, Costas Meghir, and Jonathan Shaw (2016), “Female Labour Supply, Human Capital and Welfare Reform”, *Econometrica 84*(5), 1705-1753.
+
