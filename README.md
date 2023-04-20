@@ -45,27 +45,27 @@
 #### References
 
 
--   Angrist, Joshua and Jörn Pischke (2010), "The Credibility Revolution in Empirical Economics: How Better Research Design is Taking the Con out of Econometrics,\" *Journal of Economic Perspectives* 24 (2), 3-30.
+- Angrist, Joshua and Jörn Pischke (2010). The Credibility Revolution in Empirical Economics: How Better Research Design is Taking the Con out of Econometrics. *Journal of Economic Perspectives* 24(2), 3-30.
 
-- Frijters, Paul (2013) “The Limits of Inference Without Theory”, *Economic Record* 89, 429-432.
+- Frijters, Paul (2013). The Limits of Inference Without Theory. *Economic Record* 89, 429-432.
 
-- **Haile, Phil (2022), Models, Measurement, and the Language of Empirical Economics, slides at https://www.dropbox.com/s/8kwtwn30dyac18s/intro.pdf**
+- **Haile, Phil (2022). Models, Measurement, and the Language of Empirical Economics. slides at https://www.dropbox.com/s/8kwtwn30dyac18s/intro.pdf**
 
-- Heckman, Jim J. (2010), “Building Bridges Between Structural and Program Evaluation Approaches to Evaluating Policy,” *Journal of Economic Literature* 48(2), 356-398.
+- Heckman, Jim J. (2010). Building Bridges Between Structural and Program Evaluation Approaches to Evaluating Policy. *Journal of Economic Literature* 48(2), 356-398.
 
-- Judd, Kenneth L. (1998), *Numerical Methods in Economics*, MIT Press, Cambridge, MA.
+- Judd, Kenneth L. (1998). *Numerical Methods in Economics*. MIT Press, Cambridge, MA.
 
-- Keane, Michael P. (2010), “Structural vs. Atheoretic Approaches to Econometrics,” Journal of Econometrics156, 3-20.
+- Keane, Michael P. (2010). Structural vs. Atheoretic Approaches to Econometrics. Journal of Econometrics 156(1), 3-20.
 
-- Rust, John (2010), “Comments on: ‘Structural vs. atheoretic approaches to econometrics’ by Michael Keane,” *Journal of Econometrics* 156 (1), 21-24.
+- Rust, John (2010). Comments on: ‘Structural vs. atheoretic approaches to econometrics’ by Michael Keane. *Journal of Econometrics* 156(1), 21-24.
 
-- Rust, John (2014), “The Limits of Inference with Theory: A Review of Wolpin,” *Journal of Economic Literature* 52 (3), 820-850.
+- Rust, John (2014). The Limits of Inference with Theory: A Review of Wolpin. *Journal of Economic Literature* 52(3), 820-850.
 
-- Train, Kenneth E. (2009), Discrete Choice Methods with Simulation, Cambridge University Press.
+- Train, Kenneth E. (2009). Discrete Choice Methods with Simulation, Cambridge University Press.
 
-- **van Soest, Arthur (1995), “Structural models of family labor supply: A discrete choice approach”, *Journal of Human Resources* 30 (1), 63-88.**
+- **van Soest, Arthur (1995). “Structural models of family labor supply: A discrete choice approach”, *Journal of Human Resources* 30(1), 63-88.**
 
-- Wolpin, Kenneth I. (2013), The limits of inference without theory, MIT Press.
+- Wolpin, Kenneth I. (2013). The limits of inference without theory, MIT Press.
 
 
 ### 2 Omitted Variable Bias, Assessing Models, Fisher Inference, Stata (FW 28.4.)
