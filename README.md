@@ -55,7 +55,7 @@
 
 - Judd, Kenneth L. (1998). *Numerical Methods in Economics*. MIT Press, Cambridge, MA.
 
-- Keane, Michael P. (2010). Structural vs. Atheoretic Approaches to Econometrics. Journal of Econometrics 156(1), 3-20.
+- Keane, Michael P. (2010). Structural vs. Atheoretic Approaches to Econometrics. *Journal of Econometrics 156*(1), 3-20.
 
 - Rust, John (2010). Comments on: ‘Structural vs. atheoretic approaches to econometrics’ by Michael Keane. *Journal of Econometrics* 156(1), 21-24.
 
@@ -85,7 +85,7 @@ applied in non-experimental settings) that works without distributional assumpti
 #### References
 
 
-- Oster, Emily, (2019), Unobservable Selection and Coefficient Stability: Theory and Evidence, **Journal of Business & Economic Statistics, 37**(2).
+- Oster, Emily, (2019). Unobservable Selection and Coefficient Stability: Theory and Evidence, *Journal of Business & Economic Statistics, 37*(2).
 
 - Altonji, J. G., Elder, T. E., & Taber, C. R. (2005). Selection on Observed and Unobserved Variables: Assessing the Effectiveness of Catholic Schools. Journal of Political Economy, 113(1), 151-184.
 
@@ -220,9 +220,9 @@ ference”**,https://mixtape.scunning.com/04-potential_outcomes#randomization-in
 
 #### Reference
 
-- Keane, M., P. Todd, and K. Wolpin (2011). “The Structural Estimation of Behavioral Models: Discrete Choice Dynamic Programming Methods and Applications”. In *Handbook of Labor Economics*, ed. by O. Ashenfelter and D. Card, Elsevier, vol. 4, 1 ed.
+- Keane, M., P. Todd, and K. Wolpin (2011). The Structural Estimation of Behavioral Models: Discrete Choice Dynamic Programming Methods and Applications. In *Handbook of Labor Economics*, ed. by O. Ashenfelter and D. Card, Elsevier, vol. 4, 1 ed.
 
-- **Keane, Michael and Kenneth Wolpin (1997). “The Career Decisions of Young Men”. *Journal of Political Economy 105* (3), 473-522.**
+- **Keane, Michael and Kenneth Wolpin (1997). The Career Decisions of Young Men. *Journal of Political Economy 105* (3), 473-522.**
 
 
 ### 10 Dynamic discrete choice in Labour II (July 14, PH, MB)
@@ -233,5 +233,5 @@ ference”**,https://mixtape.scunning.com/04-potential_outcomes#randomization-in
 
 #### Reference
 
-- Blundell, Richard, Monica Costa-Dias, Costas Meghir, and Jonathan Shaw (2016), “Female Labour Supply, Human Capital and Welfare Reform”, *Econometrica 84*(5), 1705-1753.
+- **Blundell, Richard, Monica Costa-Dias, Costas Meghir, and Jonathan Shaw (2016). Female Labour Supply, Human Capital and Welfare Reform. *Econometrica 84*(5), 1705-1753.**
 
