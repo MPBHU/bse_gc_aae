@@ -6,7 +6,7 @@
 
 - The course takes place on Fridays (in general), 9:00 - 12:00 at DIW Berlin (Room 2.3.020, Popper
     Room).
-- All material can be found here:https://github.com/hannesullrich/BSE_GC_AAE
+- All material can be found here:https://github.com/hannesullrich/bse_gc_aae
 - PhD: Credit points: 9 ECTS
 - Master: Credit points: 6 ECTS
 - First session: April 21, 2023
@@ -89,10 +89,10 @@ applied in non-experimental settings) that works without distributional assumpti
 
 - Altonji, J. G., Elder, T. E., & Taber, C. R. (2005). Selection on Observed and Unobserved Variables: Assessing the Effectiveness of Catholic Schools. Journal of Political Economy, 113(1), 151-184.
 
-- Alwyn Young, Channeling Fisher: Randomization Tests and the Statistical Insignificance of Seemingly Significant Experimental Results, **The Quarterly Journal of Economics, 134**(2),May 2019.
+- Alwyn Young, Channeling Fisher: Randomization Tests and the Statistical Insignificance of Seemingly Significant Experimental Results, *Quarterly Journal of Economics*, 134(2),May 2019.
 
 - **Scott Cunningham (2018), Causal Inference: The Mixtape, Chapter “Randomization In-
-ference”**,https://mixtape.scunning.com/04-potential_outcomes#randomization-inference.
+ference”**, https://mixtape.scunning.com/04-potential_outcomes#randomization-inference.
 
 
 ### 3 Panel Data/Fixed Effects (May 5, RS)
@@ -124,7 +124,7 @@ ference”**,https://mixtape.scunning.com/04-potential_outcomes#randomization-in
 
 - Marianne Bertrand, Esther Duflo, Sundhil Mullainathan (2004), How much should we trust differences-in-differences estimates? *Quarterly Journal of Economics, 119* (1):249-275.
 
-- **Scott Cunningham (2018), Causal Inference: The Mixtape, Chapter “Difference-in-Differences”**,https://mixtape.scunning.com/09-difference_in_differences.
+- **Scott Cunningham (2018), Causal Inference: The Mixtape, Chapter “Difference-in-Differences”**, https://mixtape.scunning.com/09-difference_in_differences.
 
 - Jonathan Roth, Pedro H. C. Sant’Anna, Alyssa Bilinski, John Poe (2022), “What’s Trending inDifference-in-Differences? A Synthesis of the Recent Econometrics Literature,”https://www.jonathandroth.com/assets/files/DiD_Review_Paper.pdf
 
@@ -138,7 +138,7 @@ ference”**,https://mixtape.scunning.com/04-potential_outcomes#randomization-in
 
 #### References
 
-- **Cunningham, Scott (2018), Causal Inference: The Mixtape, Chapter “Instrumental Variables”**,https://mixtape.scunning.com/07-instrumental_variables.
+- **Cunningham, Scott (2018), Causal Inference: The Mixtape, Chapter “Instrumental Variables”**, https://mixtape.scunning.com/07-instrumental_variables.
 
 - **Imbens, Guido W. 2010. “Better LATE Than Nothing: Some Comments on Deaton (2009) and Heckman and Urzua (2009).” *Journal of Economic Literature, 48* (2): 399- 423.**
 
@@ -164,7 +164,7 @@ ference”**,https://mixtape.scunning.com/04-potential_outcomes#randomization-in
 #### References
 
 
-- **Cunningham, Scott (2018), Causal Inference: The Mixtape, Chapter “Regression Discontinuity”**,https://mixtape.scunning.com/06-regression_discontinuity.
+- **Cunningham, Scott (2018), Causal Inference: The Mixtape, Chapter “Regression Discontinuity”**, https://mixtape.scunning.com/06-regression_discontinuity.
 
 - Dahl, G. B., Løken, K. V., & Mogstad, M. (2014). Peer effects in program participation. *American Economic Review, 104*(7), 2049-2074.
 
