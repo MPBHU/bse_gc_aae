@@ -1,4 +1,5 @@
-# Advanced Applied Econometrics -- Spring Semester 2023
+# Advanced Applied Econometrics
+# Spring Semester 2023
 
 #### Maximilian Blesch, Jonas Jessen, Peter Haan, Renke Schmacker, Hannes Ullrich, Felix Weinhardt
 
